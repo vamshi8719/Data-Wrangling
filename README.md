@@ -1,7 +1,7 @@
 # Data Wrangling and Analyzing 
 This is a Udacity nano degree project to wrangle and analyze data. The goal of the project is to analyze data from **We Rate Dogs** twitter account and identify which tweets are most likely to be retweeted and favorited.
 
-# Software and Packages:
+## Software and Packages:
 Jupyter Notebook  
 Pandas  
 Numpy  
@@ -11,7 +11,7 @@ Tweepy
 Json  
 Timeit
 
-# Data Wrangling Report
+## Data Wrangling Report
 
 Three different sources of data from twitter feed of WeRateDogs is gathered and loaded into
 pandas dataframes.  
@@ -30,7 +30,7 @@ valuable information embededed in the source column of the twitter archive table
 extracted. All the other columns which are insignificant to analysis were dropped.
 
 
-# Quality Issues
+## Quality Issues
 **Twitter Archive Table:**  
 
 1.Not all tweets are original; few are retweets and replies  
@@ -51,12 +51,12 @@ extracted. All the other columns which are insignificant to analysis were droppe
 2.Columns p1, p2, and p3 are in both lower and Upper case  
 
 
-# Tidiness Issues  
+## Tidiness Issues  
 1.Image predictions can be merged with twitter archive table as tweet IDs is common between the tables and no duplicate tweet IDs.  
 2.Twitter api json table can be merged with twitter archive table as there are no duplicates tweet IDs.  
 3.In Twitter_archive table, there are 4 different columns for each of the dog stage.
 
-# Analysis Insights
+## Analysis Insights
 
 <img width="672" alt="image" src="https://github.com/vamshi8719/Data-Wrangling/assets/56979563/4cca0860-7c1f-4232-a7ea-d9db8ace06c8">
 
