@@ -1,5 +1,5 @@
 # Data Wrangling and Analyzing 
-This is a Udacity nano degree project to wrangle and analyze data. The goal of the project is to analyze data from We Rate Dogs twitter account and identify which tweets are most likely to be retweeted and favorited.
+This is a Udacity nano degree project to wrangle and analyze data. The goal of the project is to analyze data from **We Rate Dogs** twitter account and identify which tweets are most likely to be retweeted and favorited.
 
 # Software and Packages:
 Jupyter Notebook  
